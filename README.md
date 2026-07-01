@@ -12,6 +12,10 @@
 
 ### 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 - 🌐 Passionate about the **Networking domain**, with Python as the language that powers my automation and tooling
 - 🛡️ Strong foundation in **Cybersecurity** — network security, vulnerability assessment, and traffic analysis
 - 🎯 **Career goal:** working in **Networking @ Cisco**
@@ -19,6 +23,15 @@
 - 🚩 CTF player — Finalist at **EscalateX V2** (Top 200, offline finals qualifier)
 - 📚 Department CGPA Topper & Student Mentor
 - 💬 Ask me about: Python scripting, networking fundamentals, threat/vulnerability analysis
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,13 +124,32 @@
 | Student Mentor | 2024 |
 | Department CGPA Topper | 2024 |
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DishanyaaShriiKM7&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+
+</div>
+
 ---
 
 ### 🚧 Current Projects
 
+<table>
+<tr>
+<td width="65%">
+
 - 🔎 **Threat Intelligence Series** — daily notes & practicals on threat hunting and intel gathering
 - 🐍 Python scripts for network scanning & automation
 - 📡 Networking labs — Cisco Packet Tracer configs & Wireshark packet analysis
+
+</td>
+<td width="35%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
