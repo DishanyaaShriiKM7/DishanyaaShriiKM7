@@ -1,144 +1,107 @@
 <div align="center">
 
-# Hi 👋, I'm Dishanyaa Shrii
+<!-- Typing animation banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dishanyaa+Shri+%F0%9F%91%8B;Cybersecurity+%26+Threat+Intel+Enthusiast;Python+%7C+Networking+%7C+Security+Analysis;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Developer;AI+%26+Data+Science+Enthusiast;Java+%7C+Python+%7C+Web+Developer;Always+Learning+%F0%9F%9A%80" />
+</div>
 
-### 💻 Building innovative solutions through code and continuous learning
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+</div>
 
-<p>
-<a href="https://dishanyaashriikm7.github.io"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-0A66C2?style=for-the-badge"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/DishanyaaShriiKM7"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
-</p>
+---
+
+### 👩‍💻 About Me
+
+- 🔍 I'm a **student** exploring the world of **Cybersecurity & Threat Intelligence**
+- 🐍 I build with **Python** and love automating security tasks
+- 🌐 Deep diving into **Networking** fundamentals — protocols, packet analysis, and defense
+- 🛡️ Currently sharpening skills in threat detection, analysis, and reporting
+- 📚 Learning something new in security every single day
+- 💬 Ask me about: Python scripting, network basics, threat intel research
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://dishanyaashriikm7.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00F7A5" />
+</a>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+> 💡 Replace the LinkedIn/Email links above with your real URLs — and once your portfolio site (dishanyaashriikm7.github.io) is live, that badge will link straight to it.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,kalilinux,wireshark,git,github,bash,mysql,html,css" />
+
+</div>
+
+<div align="center">
+
+![Networking](https://img.shields.io/badge/Networking-2E86C1?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=red)
+![Threat Intel](https://img.shields.io/badge/Threat_Intel-8B0000?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### 🚧 Current Projects
 
-* 🎓 Computer Science student passionate about technology
-* 🤖 Exploring **Artificial Intelligence & Data Science**
-* 🌐 Interested in **Full-Stack Web Development**
-* ☕ Strong foundation in **Java** and **Python**
-* 📚 Constantly learning modern technologies and best practices
-* 🎯 Goal: Build impactful software and contribute to open source
+- 🕵️ **Threat Intelligence Series** — daily notes & practicals on threat hunting and intel gathering
+- 🐍 Python scripts for network scanning & automation
+- 📡 Networking fundamentals — packet capture & analysis with Wireshark
 
----
-
-## 🚀 Current Focus
-
-* 🔹 Artificial Intelligence
-* 🔹 Machine Learning
-* 🔹 Data Science
-* 🔹 Java Development
-* 🔹 Web Development
-* 🔹 Data Structures & Algorithms
+> Add more rows here as you push new repos — one line per active project keeps this section fresh.
 
 ---
 
-## 🛠 Tech Stack
+### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode&theme=dark" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DishanyaaShriiKM7&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishanyaaShriiKM7&layout=compact&theme=react&hide_border=true" />
 
-## 📂 Featured Projects
+</div>
 
-### 🌐 Personal Portfolio
+<div align="center">
 
-A responsive portfolio showcasing my skills, projects, education, and achievements.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DishanyaaShriiKM7&theme=react&hide_border=true" />
 
-🔗 **Live:** https://dishanyaashriikm7.github.io
-
----
-
-### 💡 GitHub Projects
-
-* Java Applications
-* Python Programs
-* Web Development Projects
-* AI & Data Science Learning Projects
-
-> More exciting projects are coming soon 🚀
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+### 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DishanyaaShriiKM7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DishanyaaShriiKM7&theme=react-dark&hide_border=true" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishanyaaShriiKM7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DishanyaaShriiKM7&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DishanyaaShriiKM7&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DishanyaaShriiKM7&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 🧰 Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,mysql,windows&theme=dark"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* Artificial Intelligence
-* Machine Learning
-* Data Analytics
-* Cloud Computing
-* Full-Stack Development
-
----
-
-## 📫 Let's Connect
-
-🌐 Portfolio: https://dishanyaashriikm7.github.io
-
-💻 GitHub: https://github.com/DishanyaaShriiKM7
-
-💼 LinkedIn: *(Add your LinkedIn profile link here)*
+</div>
 
 ---
 
 <div align="center">
 
-### 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=DishanyaaShriiKM7&label=Profile+Views&color=00F7A5&style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=DishanyaaShriiKM7\&style=for-the-badge\&color=blue)
-
-### ⭐ *"Code. Learn. Build. Inspire."*
+⭐️ From [DishanyaaShriiKM7](https://github.com/DishanyaaShriiKM7)
 
 </div>
