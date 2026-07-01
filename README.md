@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- Typing animation banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dishanyaa+Shri+%F0%9F%91%8B;Cybersecurity+%26+Threat+Intel+Enthusiast;Python+%7C+Networking+%7C+Security+Analysis;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dishanyaa+Shrii+K+M+%F0%9F%91%8B;Networking+%26+Cybersecurity+Enthusiast;Python+Developer+%7C+Aspiring+Network+Engineer;Aiming+for+a+Career+at+Cisco+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="380">
 </div>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔍 I'm a **student** exploring the world of **Cybersecurity & Threat Intelligence**
-- 🐍 I build with **Python** and love automating security tasks
-- 🌐 Deep diving into **Networking** fundamentals — protocols, packet analysis, and defense
-- 🛡️ Currently sharpening skills in threat detection, analysis, and reporting
-- 📚 Learning something new in security every single day
-- 💬 Ask me about: Python scripting, network basics, threat intel research
+- 🌐 Passionate about the **Networking domain**, with Python as the language that powers my automation and tooling
+- 🛡️ Strong foundation in **Cybersecurity** — network security, vulnerability assessment, and traffic analysis
+- 🎯 **Career goal:** working in **Networking @ Cisco**
+- 🏆 Joint Secretary at **WiCys-SECE Student Chapter**
+- 🚩 CTF player — Finalist at **EscalateX V2** (Top 200, offline finals qualifier)
+- 📚 Department CGPA Topper & Student Mentor
+- 💬 Ask me about: Python scripting, networking fundamentals, threat/vulnerability analysis
 
 ---
 
@@ -26,48 +26,98 @@
 
 <div align="center">
 
-<a href="https://dishanyaashriikm7.github.io/" target="_blank">
+<a href="https://dishanyaashriikm7.github.io/Portfolio/portfolio" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00F7A5" />
 </a>
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/dishan2807/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="mailto:dishanyaashriikm7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-> 💡 Replace the LinkedIn/Email links above with your real URLs — and once your portfolio site (dishanyaashriikm7.github.io) is live, that badge will link straight to it.
+<div align="center">
+
+<a href="https://leetcode.com/u/dishanyaa_shrii/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/dishanyaab23g" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/dishanyaashrii_1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/bright_bell_16" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=515139&key=7b72b6ceb3894b16cd031a0cf175595419574eba" target="_blank">
+  <img src="https://img.shields.io/badge/SkillRack-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
 <div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,linux,kalilinux,wireshark,git,github,bash,mysql,html,css" />
+**Tools & Platforms**
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,github,git,kalilinux,wireshark,bash" />
 </div>
 
 <div align="center">
 
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-2E86C1?style=for-the-badge&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=red)
-![Threat Intel](https://img.shields.io/badge/Threat_Intel-8B0000?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=hackaday&logoColor=white)
 
 </div>
 
 ---
 
+### 💼 Internship Experience
+
+| Role | Organization | Year | Highlights |
+|---|---|---|---|
+| Networking Intern | GA Tech Innovators | 2026 | 1-month internship — network security, vulnerability assessment, real-world project implementation |
+| Cybersecurity Intern | DG Interns Hub | 2026 | 2-month virtual internship — core cybersecurity concepts & industry-relevant skills |
+| MERN Full Stack Intern | Rampex Technologies | 2025 | 15-day internship — React.js, Node.js, Express.js, MongoDB |
+| Cyber Security Intern | Elevate Labs, LLC | 2025 | Network security, vulnerability assessment, firewall management, traffic analysis, phishing investigation with Wireshark |
+
+---
+
+### 🏆 Achievements
+
+| Achievement | Year |
+|---|---|
+| Joint Secretary @ WiCys-SECE Student Chapter | 2026 |
+| EscalateX V2 CTF Finalist — Top 200 in pre-screening, qualified for offline finals | 2025 |
+| Participation — L3m0nCTF @ Amrita University | 2025 |
+| Community Lead @ Thunder Cipher | 2025 |
+| Campus Ambassador @ Naukri Campus | 2025 |
+| Tecquora (Paper Presentation) @ Hindustan College of Engineering & Technova (Hackathon) @ CIT | 2024 |
+| Student Mentor | 2024 |
+| Department CGPA Topper | 2024 |
+
+---
+
 ### 🚧 Current Projects
 
-- 🕵️ **Threat Intelligence Series** — daily notes & practicals on threat hunting and intel gathering
+- 🔎 **Threat Intelligence Series** — daily notes & practicals on threat hunting and intel gathering
 - 🐍 Python scripts for network scanning & automation
-- 📡 Networking fundamentals — packet capture & analysis with Wireshark
-
-> Add more rows here as you push new repos — one line per active project keeps this section fresh.
+- 📡 Networking labs — Cisco Packet Tracer configs & Wireshark packet analysis
 
 ---
 
@@ -102,6 +152,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DishanyaaShriiKM7&label=Profile+Views&color=00F7A5&style=for-the-badge)
 
-⭐️ From [DishanyaaShriiKM7](https://github.com/DishanyaaShriiKM7)
+⭐️ From [Dishanyaa Shrii K M](https://github.com/DishanyaaShriiKM7)
 
 </div>
