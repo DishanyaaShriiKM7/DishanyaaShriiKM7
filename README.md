@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dishanyaa+Shrii+K+M+%F0%9F%91%8B;Networking+%26+Cybersecurity+Enthusiast;Python+Developer+%7C+Aspiring+Network+Engineer;Aiming+for+a+Career+at+Cisco+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7A5&height=220&section=header&text=Dishanyaa%20Shrii%20K%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%7C%20Cybersecurity%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=Aspiring+Network+Engineer+%F0%9F%8C%90;Cybersecurity+%26+CTF+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Python+Automation+%7C+Networking+Labs;Dreaming+Big%2C+Aiming+for+Cisco+%F0%9F%9A%80" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="380">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
 
 ---
@@ -155,3 +155,5 @@
 ⭐️ From [Dishanyaa Shrii K M](https://github.com/DishanyaaShriiKM7)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
